@@ -1,10 +1,10 @@
-#Bank System (Java)
+# Bank System (Java)
 
 A simple banking system implemented in Java with support for normal and currency accounts, transaction handling, and a graphical user interface.
 
 ---
 
-##Features
+## Features
 
 - Create and manage **normal (HUF) accounts**
 - Support for **multi-currency accounts** (HUF, USD, EUR)
@@ -19,7 +19,7 @@ A simple banking system implemented in Java with support for normal and currency
 
 ---
 
-##Technologies
+## Technologies
 
 - **Java**
 - **Swing** (GUI)
@@ -27,7 +27,7 @@ A simple banking system implemented in Java with support for normal and currency
 
 ---
 
-##Project Structure
+## Project Structure
 
 - `Account` – basic account functionality (deposit, withdraw, history)
 - `CurrencyAccount` – extended account with multi-currency support
