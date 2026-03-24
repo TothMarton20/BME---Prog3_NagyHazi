@@ -1,0 +1,11 @@
+NormalAccount
+Name: NormalAccount
+Balance: 1000.0
+Transaction: Deposit: 1000.0 HUF
+===
+CurrencyAccount
+Name: CurrencyAccount
+Balance: 0.0
+Transaction: Deposit: 500.0 USD
+Currency: EUR=0.0,USD=500.0,HUF=0.0,
+===

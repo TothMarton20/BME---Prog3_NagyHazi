@@ -1,0 +1,20 @@
+1. Account osztály
+   Metódusok:
+	deposit - Pénz befizetése számlára
+	withdraw - Pénz levétele számláról
+	getBalance - A aktuális egyenleg lekérdezése
+	getTransactionHistory - Tranzakciós előzmények lekérdezése
+
+2. CurrencyAccount osztály
+   Metódusok:
+	convertToCurrency - Devizára való pénzváltás
+	convertFromCurrency - Devizáról forintra váltás
+	fetchExchangeRate - Online devizaárfolyam lekérdezése
+
+3. Bank osztály
+   Metódusok:
+	createAccount - Új számla létrehozása
+	transferBetweenAccount - Átutalás két számla között
+	switchCurrencyAccount - Átváltás devizaszáláról normál számlára
+
+!Sok szures, megjelenes, bonyoltult lekerdzesek

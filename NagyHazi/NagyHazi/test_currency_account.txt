@@ -1,0 +1,5 @@
+Name: TestCurrencyAccount
+Balance: 0.0
+Transaction: Deposit: 500.0 USD
+Transaction: Deposit: 300.0 EUR
+Currency: EUR=300.0,USD=500.0,HUF=0.0,
